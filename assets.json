@@ -1,10 +1,10 @@
 {
-  "vendors.js": "/rc-charts/static/js/vendors.cee0306c.js",
-  "app.js": "/rc-charts/static/js/app.e46ea8187265c27b2790.js",
-  "src-area-area.js": "/rc-charts/static/js/src-area-area.23ebf11a.js",
-  "src-bar-bar.js": "/rc-charts/static/js/src-bar-bar.7d078227.js",
-  "src-line-line.js": "/rc-charts/static/js/src-line-line.f96ffaa9.js",
-  "src-pie-pre.css": "/rc-charts/static/css/src-pie-pre.e46ea8187265c27b2790.css",
-  "src-pie-pre.js": "/rc-charts/static/js/src-pie-pre.95e6536d.js",
+  "vendors.js": "/rc-charts/static/js/vendors.703301eb.js",
+  "app.js": "/rc-charts/static/js/app.14c1612fe3762fb77aa9.js",
+  "src-area-area.js": "/rc-charts/static/js/src-area-area.ebae05f3.js",
+  "src-bar-bar.js": "/rc-charts/static/js/src-bar-bar.257ecfe5.js",
+  "src-line-line.js": "/rc-charts/static/js/src-line-line.1c11f07e.js",
+  "src-pie-pre.css": "/rc-charts/static/css/src-pie-pre.14c1612fe3762fb77aa9.css",
+  "src-pie-pre.js": "/rc-charts/static/js/src-pie-pre.9b65f95b.js",
   "index.html": "/rc-charts/index.html"
 }
