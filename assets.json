@@ -1,8 +1,9 @@
 {
   "vendors.js": "/rc-charts/static/js/vendors.cee0306c.js",
-  "app.js": "/rc-charts/static/js/app.2713f28f817abba057c8.js",
-  "src-line-line.js": "/rc-charts/static/js/src-line-line.306027f0.js",
-  "src-pie-pre.css": "/rc-charts/static/css/src-pie-pre.2713f28f817abba057c8.css",
-  "src-pie-pre.js": "/rc-charts/static/js/src-pie-pre.df81db34.js",
+  "app.js": "/rc-charts/static/js/app.1f571681f79933c990ab.js",
+  "src-bar-bar.js": "/rc-charts/static/js/src-bar-bar.8d8b8161.js",
+  "src-line-line.js": "/rc-charts/static/js/src-line-line.df2db818.js",
+  "src-pie-pre.css": "/rc-charts/static/css/src-pie-pre.1f571681f79933c990ab.css",
+  "src-pie-pre.js": "/rc-charts/static/js/src-pie-pre.2eefb368.js",
   "index.html": "/rc-charts/index.html"
 }
