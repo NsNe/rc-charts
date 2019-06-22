@@ -1,11 +1,12 @@
 {
-  "vendors.css": "/rc-charts/static/css/vendors.9373179df3eab20be1d3.css",
+  "vendors.css": "/rc-charts/static/css/vendors.fe78ec6cb82879f45bc6.css",
   "vendors.js": "/rc-charts/static/js/vendors.ea39d4c6.js",
-  "app.js": "/rc-charts/static/js/app.9373179df3eab20be1d3.js",
-  "src-area-area.js": "/rc-charts/static/js/src-area-area.1253a861.js",
-  "src-bar-bar.js": "/rc-charts/static/js/src-bar-bar.224bfb92.js",
-  "src-line-line.js": "/rc-charts/static/js/src-line-line.4e38e1cb.js",
-  "src-pie-pre.css": "/rc-charts/static/css/src-pie-pre.9373179df3eab20be1d3.css",
-  "src-pie-pre.js": "/rc-charts/static/js/src-pie-pre.bcaa3434.js",
+  "app.js": "/rc-charts/static/js/app.fe78ec6cb82879f45bc6.js",
+  "docs-area.js": "/rc-charts/static/js/docs-area.ca16c1c3.js",
+  "docs-bar.js": "/rc-charts/static/js/docs-bar.149ea568.js",
+  "docs-home.js": "/rc-charts/static/js/docs-home.2704dd36.js",
+  "docs-line.js": "/rc-charts/static/js/docs-line.3b83aa14.js",
+  "docs-pre.css": "/rc-charts/static/css/docs-pre.fe78ec6cb82879f45bc6.css",
+  "docs-pre.js": "/rc-charts/static/js/docs-pre.a17f0842.js",
   "index.html": "/rc-charts/index.html"
 }
