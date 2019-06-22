@@ -1,13 +1,13 @@
 {
-  "vendors.css": "/rc-charts/static/css/vendors.2325e2ea2a73faa05c5c.css",
+  "vendors.css": "/rc-charts/static/css/vendors.9df6071dd802c6dc0d95.css",
   "vendors.js": "/rc-charts/static/js/vendors.20685058.js",
-  "app.js": "/rc-charts/static/js/app.2325e2ea2a73faa05c5c.js",
+  "app.js": "/rc-charts/static/js/app.9df6071dd802c6dc0d95.js",
   "docs-area.js": "/rc-charts/static/js/docs-area.ca16c1c3.js",
   "docs-bar.js": "/rc-charts/static/js/docs-bar.149ea568.js",
-  "docs-index.js": "/rc-charts/static/js/docs-index.07dab594.js",
+  "docs-index.js": "/rc-charts/static/js/docs-index.91e38757.js",
   "docs-line.js": "/rc-charts/static/js/docs-line.3b83aa14.js",
-  "docs-pre.css": "/rc-charts/static/css/docs-pre.2325e2ea2a73faa05c5c.css",
-  "docs-pre.js": "/rc-charts/static/js/docs-pre.a17f0842.js",
+  "docs-pie.css": "/rc-charts/static/css/docs-pie.9df6071dd802c6dc0d95.css",
+  "docs-pie.js": "/rc-charts/static/js/docs-pie.2eca7b62.js",
   "index.html": "/rc-charts/index.html",
   "static/img/logo.svg": "/rc-charts/static/img/logo.f37fff1c.svg"
 }
